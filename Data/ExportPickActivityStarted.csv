@@ -1,0 +1,2 @@
+﻿TransactionId,ActivityId,TaskTypeCode,Activated,UserCode,EquipmentId,PrinterName,ShipmentId,PicklistId,DeliveryLocation,BoxType
+270,1241,1,2024-02-28T14:48:43.2744853+05:30,adm,1,None,101,L-100101,AST1-01-01-01,Box1

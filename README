@@ -1,0 +1,18 @@
+python -m venv .mldeployment
+rm 
+1. pickle / joblib
+2. Docker
+
+API
+docker build -t image_name .
+docker run --name container_name -p 8000:8000 image_name
+0.0.0.0:8000/docs - test with fast api
+
+docker images  list images
+docker ps list containers 
+
+docker hub repo https://hub.docker.com/
+
+docker rmi image_name delete image
+docker rm container_name delete container
+docker stop stops docker
